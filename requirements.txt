@@ -4,3 +4,4 @@ pyrebase4
 pandas
 scikit-learn
 geopy
+setuptools
