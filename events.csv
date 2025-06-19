@@ -1,0 +1,7 @@
+Expected_People,Actual_People,Duration,Event_Type,Food_Type,Surplus_Kgs
+200,150,4,Wedding,Veg,50
+300,280,5,Corporate,Mixed,20
+150,100,3,Birthday,Veg,30
+400,250,6,Festival,Mixed,100
+250,230,3,Corporate,Veg,15
+180,140,2,Wedding,Mixed,35
