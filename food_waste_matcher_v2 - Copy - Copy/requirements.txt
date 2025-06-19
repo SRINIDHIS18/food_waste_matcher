@@ -1,6 +1,6 @@
 streamlit
+firebase-admin
+pyrebase4
 pandas
 scikit-learn
 geopy
-pyrebase4
-firebase-admin
