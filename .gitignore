@@ -1,0 +1,9 @@
+# Sensitive files to ignore
+serviceAccountKey.json
+.streamlit/secrets.toml
+
+# Common safe ignores
+*.pkl
+*.env
+__pycache__/
+*.pyc
