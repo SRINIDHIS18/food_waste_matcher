@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+geopy
+pyrebase
+firebase-admin
